@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git? 
+
+Answer: Git is incredibly helpful for collaboration, specifically allowing developers to collaborate on a project simultaneously 
+while maintaining a complete history of all changes made to the codebase. Thus, I might consider using Git if I need to collaborate on a project. 
